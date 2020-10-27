@@ -1,4 +1,3 @@
-nimi = input("Sisesta oma ees- ja perenimi: ")
-
-for osa in nimi.split():
-    print(osa.capitalize(), end=" ")
+vastus= input("Sisestage oma ees- ja perekonnanimi: ")
+vastus = vastus.title()
+print(vastus)
