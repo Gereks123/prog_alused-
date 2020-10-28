@@ -10,7 +10,7 @@ konede_koguarv = int(input("Sisestage oma kõnede arv:"))
 
 suvaline_arv = random.choice(konekestus)
 
-kone_maksumus = suvaline_arv * koneminuti_hind
+kone_maksumus = suvaline_arv / koneminuti_hind
 
 min_hind = 60
 
