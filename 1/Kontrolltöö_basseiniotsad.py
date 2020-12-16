@@ -33,3 +33,4 @@ for i in range(7): #Lisatakse 7 suvalist basseiniotsa arvu ja kuvatakse kui palj
 
 
 
+
